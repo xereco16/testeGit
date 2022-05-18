@@ -5,7 +5,7 @@ const {
 
 let x = 0
 
-while (x < 5) {
+while (x < 10) {
     escrever("Olá, eu sou uma estrutura de repetição")
     x++
 }
