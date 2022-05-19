@@ -11,8 +11,8 @@ let soma = 0
 while (contador <= limite){
     let numb = Number(ler("Digite um número: "))
     if (numb== 0 ) {
-        break;
-    }
+         break;
+      }
     soma += numb;
     contador = contador + 1
 }
