@@ -4,6 +4,16 @@ const {
 } = require('./utils/utils');
 
 
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+//ESSE NAOA DEU CERTO :(
+
 let nome = String(ler("Qual é seu nome? "))
 let peso = Number(ler("Qual é seu peso em KG? "))
 let idade = Number(ler("Qual é a sua idade? "))
@@ -22,4 +32,4 @@ while (peso < 30 && idade < 18) {
     }
 }
 
-// escrever("Olá "+nome+"você tem "+peso+"KG e "+idade+" anos, sua entrada foi liberada")
+escrever("Olá "+nome+"você tem "+peso+"KG e "+idade+" anos, sua entrada foi liberada")
